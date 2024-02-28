@@ -23,11 +23,11 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const document = doc[Math.floor(Math.random() * doc.length)];
     const str = `𝙏𝙃𝙀 𝙈𝙔𝙎𝙏𝙄𝘾 - 𝘽𝙊𝙏
 
- ▢ *Hola,* ${taguser}
+ ▢ *اهلا مرحبا بك مع بوت اسمي اوراهارا,* ${taguser}
 
- _*< TUS ESTADÍSTICAS />*_
+ _*< احصائياتك />*_
 
- ▢ *Nivel:* ${level}
+ ▢ *Nivel:* ${لفل}
  ▢ *Experiencia:* ${exp}
  ▢ *Rango:* ${role}
  ▢ *Diamantes:* ${limit}
